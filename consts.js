@@ -1,8 +1,9 @@
 module.exports = {
   'exchangeDictionary' : {
     'poloniex' : 'poloniex', '폴로' : 'poloniex', '폴로닉스' : 'poloniex',
-    'bittrex' : 'bittrex', '비렉' : 'bittrex', '비트렉스' : 'bittrex',
-    'bitfinex' : 'bitfinex', '빗파' : 'bitfinex', '빗피' : 'bitfinex', '빗파이넥스' : 'bitfinex', '빗피넥스' : 'bitfinex',
+    'bittrex' : 'bittrex', '비렉' : 'bittrex', '비트렉스' : 'bittrex', '빗렉' : 'bittrex',
+    'bitfinex' : 'bitfinex', '빗파' : 'bitfinex', '빗피' : 'bitfinex', '비피' : 'bitfinex', '비파' : 'bitfinex, '빗피넥스' : 'bitfinex',
+    '비트파이넥스' : 'bitfinex', '비트피넥스' : 'bitfinex', '비트파이넥스' : 'bitfinex', '비트피넥스' : 'bitfinex', '빗파이넥스' : 'bitfinex',
     'liqui' : 'liqui', '리퀴' : 'liqui',
     'coinone' : 'coinone', '코인원' : 'coinone', '고인원' : 'coinone', '띵훈거래소' : 'coinone',
     'korbit' : 'korbit', '코빗' : 'korbit',
@@ -10,14 +11,14 @@ module.exports = {
     'bithumb' : 'bithumb', '빗썸' : 'bithumb', '빗섬' : 'bithumb'
    },
    'currencyDictionary' : {
-      'btc' : 'btc', 'bitcoin' : 'btc', 'Bitcoin' : 'btc', '비트' : 'btc', '비트코인' : 'btc',
+      'btc' : 'btc', 'bitcoin' : 'btc', 'Bitcoin' : 'btc', '비트' : 'btc', '비트코인' : 'btc', '비코' : 'btc', '빗코' : 'btc',
       'bch' : 'bch', '비캐' : 'bch', '빗캐' : 'bch', '비트코인캐시' : 'bch', '비트캐시' : 'bch', '비트코인캐쉬' : 'bch', '비트캐쉬' : 'bch',
       'dash' : 'dash', '대시' : 'dash', '대쉬' : 'dash',
       'eth' : 'eth', 'ethereum' : 'eth', '이더' : 'eth', '이더리움' : 'eth',
       'zec' : 'zec', '제트캐시' : 'zec', '제트캐쉬' : 'zec', '제캐' : 'zec',
       'xmr' : 'xmr', '모네로' : 'xmr',
       'ltc' : 'ltc', '라코' : 'ltc', '라이트코인' : 'ltc',
-      'gno' : 'gno', '지노시스' : 'gno', '노지스' : 'gno',
+      'gno' : 'gno', '지노시스' : 'gno', '노시스' : 'gno',
       'rep' : 'rep', '어거' : 'rep',
       'etc' : 'etc', '이클' : 'etc', '이더리움클래식' : 'etc',
       'lsk' : 'lsk', '리스크' : 'lsk',
