@@ -2,8 +2,7 @@ module.exports = {
   'exchangeDictionary' : {
     'poloniex' : 'poloniex', '폴로' : 'poloniex', '폴로닉스' : 'poloniex',
     'bittrex' : 'bittrex', '비렉' : 'bittrex', '비트렉스' : 'bittrex', '빗렉' : 'bittrex',
-    'bitfinex' : 'bitfinex', '빗파' : 'bitfinex', '빗피' : 'bitfinex', '비피' : 'bitfinex', '비파' : 'bitfinex', '빗피넥스' : 'bitfinex',
-    '비트파이넥스' : 'bitfinex', '비트피넥스' : 'bitfinex', '비트파이넥스' : 'bitfinex', '비트피넥스' : 'bitfinex', '빗파이넥스' : 'bitfinex',
+    'bitfinex' : 'bitfinex', '빗파' : 'bitfinex', '빗피' : 'bitfinex', '비피' : 'bitfinex', '비파' : 'bitfinex', '빗피넥스' : 'bitfinex', '비트파이넥스' : 'bitfinex', '비트피넥스' : 'bitfinex', '비트파이넥스' : 'bitfinex', '비트피넥스' : 'bitfinex', '빗파이넥스' : 'bitfinex',
     'liqui' : 'liqui', '리퀴' : 'liqui',
     'coinone' : 'coinone', '코인원' : 'coinone', '고인원' : 'coinone', '띵훈거래소' : 'coinone',
     'korbit' : 'korbit', '코빗' : 'korbit',
