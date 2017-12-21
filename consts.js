@@ -6,7 +6,7 @@ module.exports = {
     'liqui' : 'liqui', '리퀴' : 'liqui',
     'coinone' : 'coinone', '코인원' : 'coinone', '고인원' : 'coinone', '띵훈거래소' : 'coinone',
     'korbit' : 'korbit', '코빗' : 'korbit',
-    'gdax' : 'gdax', '지덱스' : 'gdax',
+    'gdax' : 'gdax', '지덱스' : 'gdax', '코인베이스' : 'gdax',
     'bithumb' : 'bithumb', '빗썸' : 'bithumb', '빗섬' : 'bithumb',
     'coinnest' : 'coinnest', '코인네스트' : 'coinnest', '코네' : 'coinnest',
     'binance' : 'binance', '바이낸스' : 'binance', '바이넨스' : 'binance', '바낸' : 'binance', '바이넌스' : 'binance',
