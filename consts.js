@@ -9,8 +9,8 @@ module.exports = {
     'gdax' : 'gdax', '지덱스' : 'gdax',
     'bithumb' : 'bithumb', '빗썸' : 'bithumb', '빗섬' : 'bithumb',
     'coinnest' : 'coinnest', '코인네스트' : 'coinnest', '코네' : 'coinnest',
-    'binance' : 'binance', '바이낸스' : 'binance', '바이넨스' : 'binance',
-    'upbit' : 'upbit', '업비트' : 'upbit', '업빗' : 'upbit', '도박장' : 'upbit'
+    'binance' : 'binance', '바이낸스' : 'binance', '바이넨스' : 'binance', '바낸' : 'binance', '바이넌스' : 'binance',
+    'upbit' : 'upbit', '업비트' : 'upbit', '업빗' : 'upbit', '도박장' : 'upbit', '강원랜드' : 'upbit', '하우스' : 'upbit'
    },
    'currencyDictionary' : {
       'btc' : 'btc', 'bitcoin' : 'btc', 'Bitcoin' : 'btc', '비트' : 'btc', '비트코인' : 'btc',
@@ -97,6 +97,7 @@ module.exports = {
       'tix' : 'tix', '블록틱스' : 'tix',
       'powr' : 'powr', '파워렛져' : 'powr',
       'ardr' : 'ardr', '아더' : 'ardr',
+      'tnb' : 'tnb', '타임뉴뱅크' : 'tnb',
       'mer' : 'mer', '머큐리' : 'mer',
       'vtc' : 'vtc', '버트' : 'vtc', '버트코인' : 'vtc',
       'pivx' : 'pivx', '피백스' : 'pivx'
